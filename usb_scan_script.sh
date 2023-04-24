@@ -18,7 +18,7 @@ sudo systemctl restart clamav-daemon  && \
 
 
 
-# Create a new file called usb_scan.sh
+# Create a new file called usbscan.sh
 
 touch usbscan.sh
 
